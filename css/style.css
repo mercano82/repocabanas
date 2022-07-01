@@ -50,9 +50,7 @@ nav ul li a{
 
 /*cuerpo de la pag*/
 
-.imagenprincipal{
-	width: 100%;
-}
+
 
 h1{
 	font-size: 2rem;
@@ -247,3 +245,5 @@ footer{
 	height: AUTO;}
 
 }
+
+
