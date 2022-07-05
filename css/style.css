@@ -23,6 +23,10 @@ nav{
 
 }
 
+.navback{
+	background-color: #324851;
+}
+
 .navLogo{
 	width: 8rem;
 	height: 8rem;
@@ -47,6 +51,14 @@ nav ul li a{
 			color: lightgray;
 			text-decoration-line: none;
 }
+
+.textonav{
+			font-size: 1.8rem;
+			color: lightgray;
+			text-decoration-line: none;
+}
+
+
 
 /*cuerpo de la pag*/
 
@@ -76,7 +88,7 @@ h1{
 
 h2{
 	font-size: 2rem;
-	color: floralwhite;
+	color: darkgrey;
 	font-family: roboto,sans-serif;
 	font-style: italic;
 	margin-left: 2rem;
